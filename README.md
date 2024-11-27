@@ -1,5 +1,8 @@
 # chuck-jokes-vue
 
+## Description
+This project is a simple Vue.js application that displays a list of hilarious Chuck Norris jokes. 
+
 ## Project setup
 ```
 npm install
